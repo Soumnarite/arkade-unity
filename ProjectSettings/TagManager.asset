@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Snake Wall
+  - Snake Food
+  - Snake Segment
+  - Flappy Bird Obstacle
+  - Asteroids Obstacle
+  - Asteroids Bullet
+  - Donkey Kong Platforms
+  - Donkey Kong Barrel
+  - Dokney Kong Princess
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Blank
+  - Water
+  - UI
+  - Asteroids Player
+  - Asteroids Bullet
+  - Space Invaders Player
+  - Space Invaders Laser
+  - Space Invaders Alien
+  - Space Invaders Missile
+  - Centipede Player
+  - Centipede Dart
+  - Centipede Barrier
+  - Centipede Shroom
+  - Centipede Segment
+  - Donkey Kong Ground
+  - Donkey Kong Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
